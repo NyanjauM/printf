@@ -189,6 +189,6 @@ char z = '0' + a[i];
 write(1, &z, 1);
 count++;
 }
-}   
+}
 return (count);
 }
